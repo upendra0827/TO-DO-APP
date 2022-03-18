@@ -12,6 +12,10 @@ button {
     /* color: black; */
 }
 
+input {
+    padding: 0.25rem;
+}
+
 li {
     /* list-style: none; */
 }
