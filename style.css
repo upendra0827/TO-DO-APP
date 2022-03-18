@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+button {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 30px;
+    border: none;
+    /* color: black; */
+}
+
+li {
+    /* list-style: none; */
+}
+
+body {
+    background: #C1F7D5;
+}
+header {
+    min-height: 5rem;
+    background: black;
+}
+
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    padding: 2rem;
+    color: #C1F7D5;
+}
+
+form {
+    text-align: center;
+}
+
+
+#task_list {
+    display: grid;
+    grid-template-columns: auto auto;
+    border: none;
+}
+
+div {
+    padding: 1rem;
+    border: 1px solid black;
+    margin: 0.5rem;
+}
+
