@@ -53,3 +53,10 @@ div {
     margin: 0.5rem;
 }
 
+@media(max-width: 500px) {
+    #task_list {
+        display: grid;
+        grid-template-columns: auto;
+        border: none;
+    }
+}
